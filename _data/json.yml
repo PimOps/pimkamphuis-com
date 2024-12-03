@@ -1,0 +1,36 @@
+- key: Name
+  value: P.I.M. Kamphuis
+- key: Occupation
+  value: Data Wizard, Cloud Consulant, and Lecturer
+- key: Message
+  value:
+    - Hello!
+    - Looking for me?
+    - I am probably somewhere up in the cloud :)
+    - look for me at one of the places below...
+  typed: true
+
+- key: Find me at
+  value:
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/pimkamphuis/
+    - value: CoCreatures
+      url: https://www.cocreatures.com/
+    - value: Course Camphouse
+      url: https://camphouse.me/
+    - value: Sungkyunkwan University
+      url: https://sites.google.com/g.skku.edu/dssal/members
+    - value: 2CIT
+      url: https://www.2ict.nl
+    - value: Microsoft Teams
+      url: https://teams.microsoft.com/l/chat/0/0?users=pim@cocreatures.com
+- key: Contact
+  value:
+    - key: Currently based in
+      value: Seoul, South Korea
+    - key: Email
+      value: lookingfor@pimkamphuis.com
+      url: "mailto:lookingfor@pimkamphuis.com"
+- key: Source
+  value: PimOps/pimkamphuis.com
+  url: https://github.com/PimOps/pimkamphuis.com
