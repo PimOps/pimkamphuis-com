@@ -30,7 +30,7 @@
       value: seoul, south Korea
     - key: email
       value: lookingfor@pimkamphuis.com
-      url: "mailto:lookingfor@pimkamphuis.com"
+      url: "mailto:someone@example.com"
 - key: source
   value: PimOps/pimkamphuis.com
   url: https://github.com/PimOps/pimkamphuis-com
