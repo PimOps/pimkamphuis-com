@@ -18,4 +18,4 @@ sass:
   sourcemap: never
   
 newtab: true
-lowecase: false
+lowercase: false
