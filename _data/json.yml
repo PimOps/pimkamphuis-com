@@ -1,7 +1,7 @@
 - key: name
   value: P.I.M. Kamphuis
 - key: occupation
-  value: data wizard, cloud consulant, and lecturer
+  value: data wizard, cloud consulant, lecturer
 - key: message
   value:
     - hello!
@@ -31,6 +31,8 @@
     - key: email
       value: lookingfor@pimkamphuis.com
       url: "mailto:lookingfor@pimkamphuis.com"
+- key: toolkit
+  value: Airbyte, Azure, Codespaces, Llama, LlamaIndex, Metabase, OpenAI, PostgreSQL, Python, VSCode 
 - key: source
   value: PimOps/pimkamphuis.com
   url: https://github.com/PimOps/pimkamphuis-com

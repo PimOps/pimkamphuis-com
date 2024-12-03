@@ -17,7 +17,6 @@ plugins:
 sass:
   sourcemap: never
   
-newtab: true
 lowercase: false
 
 title: Pim Kamphuis

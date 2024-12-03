@@ -65,9 +65,9 @@ a:active {
 
 .key {
   color: var(--oc-green-4);
-  text-transform: lowercase; }
+  text-transform: none; }
 
 .error,
 .value {
   color: var(--oc-green-4);
-  text-transform: lowercase; }
+  text-transform: none; }
