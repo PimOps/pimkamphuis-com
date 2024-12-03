@@ -2,7 +2,7 @@
   value: P.I.M. Kamphuis
 - key: occupation
   value: data wizard, cloud consulant, and lecturer
-- key: Message
+- key: message
   value:
     - hello!
     - looking for me?
@@ -16,15 +16,15 @@
       url: https://www.linkedin.com/in/pimkamphuis/
     - value: CoCreatures
       url: https://www.cocreatures.com/
-    - value: Course Camphouse
+    - value: course camphouse
       url: https://camphouse.me/
     - value: Sungkyunkwan University
       url: https://sites.google.com/g.skku.edu/dssal/members
     - value: 2CIT
       url: https://www.2ict.nl
-    - value: Microsoft Teams
+    - value: microsoft teams
       url: https://teams.microsoft.com/l/chat/0/0?users=pim@cocreatures.com
-- key: Contact
+- key: contact
   value:
     - key: currently based in
       value: seoul, south Korea
