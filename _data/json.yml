@@ -1,13 +1,13 @@
 - key: name
   value: P.I.M. Kamphuis
 - key: occupation
-  value: data wizard, cloud consultant, lecturer
+  value: data engineer, cloud consultant, lecturer, researcher
 - key: message
   value:
     - hello!
     - looking for me?
     - i am probably somewhere up in the cloud :)
-    - look for me at one of the places below...
+    - or find me at one of the places below
   typed: true
 
 - key: find me at
@@ -16,13 +16,13 @@
       url: https://www.linkedin.com/in/pimkamphuis/
     - value: CoCreatures
       url: https://www.cocreatures.com/
-    - value: course camphouse
+    - value: Course Camphouse
       url: https://camphouse.me/
     - value: Sungkyunkwan University
       url: https://sites.google.com/g.skku.edu/dssal/members
     - value: 2ICT
       url: https://www.2ict.nl
-    - value: microsoft teams
+    - value: Microsoft Teams
       url: https://teams.microsoft.com/l/chat/0/0?users=pim@cocreatures.com
 - key: contact
   value:
