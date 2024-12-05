@@ -1,6 +1,6 @@
 - key: name
   value: P.I.M. Kamphuis
-- key: occupation
+- key: jobs
   value: data engineer, cloud consultant, lecturer, researcher
 - key: message
   value:
@@ -26,13 +26,16 @@
       url: https://teams.microsoft.com/l/chat/0/0?users=pim@cocreatures.com
 - key: contact
   value:
-    - key: currently based in
-      value: seoul, south Korea
+    - key: location
+      value: seoul, south korea
     - key: email
       value: lookingfor@pimkamphuis.com
       url: "mailto:lookingfor@pimkamphuis.com"
 - key: toolkit
-  value: Airbyte, Azure, Codespaces, Llama, LlamaIndex, Metabase, OpenAI, PostgreSQL, Python, VSCode 
+  value: Airbyte, Codespaces, Docker, (o)Llama(Index), Metabase, Python, VSCode 
+- key: platforms
+  value: Azure, GitHub, OpenAI, PostgreSQL, Supabase
+
 - key: source
   value: PimOps/pimkamphuis.com
   url: https://github.com/PimOps/pimkamphuis-com
