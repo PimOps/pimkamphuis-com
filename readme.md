@@ -1,5 +1,7 @@
 # Creating pimkamphuis.com
 
+![pimkamphuis.com screenshot](https://github.com/PimOps/pimkamphuis-com/blob/main/assets/img/pimkamphuiscom.jpeg?raw=true)
+
 A wise man once told me to "always register your personal domain name as long as it is available." So, I did.
 
 While I had no clear purpose for the domain, I did not want it to show the default domain registrar landing page. As an international graduate student and cloud freak I:
