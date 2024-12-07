@@ -12,6 +12,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+google_analytics: "G-0HCTRFNY49"
+
 sass:
   sourcemap: never
   
