@@ -3,6 +3,8 @@ description: Looking for me? I am probably somewhere up in the cloud...
 
 theme: hacked-jekyll
 
+asset_url: /assets
+
 exclude:
   - LICENSE
   - README.md
